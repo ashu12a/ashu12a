@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ashutosh Sharma</h1>
 <h3 align="center">A passionate Full Stack developer from India</h3>
 
-<img align="right" alt="coding" width="400" src="https://images.cointelegraph.com/cdn-cgi/image/format=auto,onerror=redirect,quality=90,width=717/https://s3.cointelegraph.com/uploads/2023-01/158029af-a86a-402f-a5b5-e915cc69f138.JPG" alt="ashu12a" > 
+<img align="right" alt="coding" width="400" src="https://images.cointelegraph.com/cdn-cgi/image/format=auto,onerror=redirect,quality=90,width=717/https://s3.cointelegraph.com/uploads/2023-01/158029af-a86a-402f-a5b5-e915cc69f138.JPG" > 
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashu12a&label=Profile%20views&color=0e75b6&style=flat" alt="ashu12a" /> </p>
