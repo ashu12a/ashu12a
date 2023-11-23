@@ -1,0 +1,45 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+
+.homeSection{
+    height: 80vh;
+}
+
+/* Style the video: 100% width and height to cover the entire window */
+#myVideo {
+    position: fixed;
+    z-index: -1;
+    right: 0;
+    bottom: 0;
+    min-width: 100vw;
+    min-height: 100%;
+}
+  
+.homeImg{
+    margin-top:50px;
+}
+
+  @media only screen and (max-width: 600px) {
+    /* For mobile: */
+    .homeSection .content p{
+        max-width: 90vw;
+    }
+    .homeSection .content h1{
+        padding:10px;
+    }
+    .homeImg{
+        margin-top:10px;
+    }
+    .homeSection video {
+        width: 200vw;
+        position: absolute;
+        left: 0;
+        padding-top: 60vh;
+        background-color: black;
+    }
+   
+  }
